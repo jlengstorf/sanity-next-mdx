@@ -12,3 +12,5 @@ npm-debug.log
 
 # macOS finder file
 .DS_Store
+# Local Netlify folder
+.netlify
