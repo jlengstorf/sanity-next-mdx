@@ -10,7 +10,6 @@
   How to render MDX stored in a headless CMS (Sanity) using Next.js!
 </h3>
 <p align="center">
-  But don’t worry! You can still: 
   <a href="https://www.smashingmagazine.com/2020/12/mdx-stored-sanity-next-js-website/"><strong>read the article</strong></a> · 
   <a href="https://sanity-next-mdx.netlify.app/"><strong>see the demo</strong></a> · 
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jlengstorf/sanity-next-mdx&utm_source=smashingmag&utm_medium=github-jl&utm_campaign=devex"><strong>deploy this project</strong></a> · 
