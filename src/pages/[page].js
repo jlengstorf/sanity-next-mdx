@@ -24,9 +24,6 @@ export async function getStaticProps({ params }) {
       query PageBySlug($slug: String!) {
         allPage(where: { slug: { current: { eq: $slug } } }) {
           title
-          slug {
-            current
-          }
           content
         }
       }
